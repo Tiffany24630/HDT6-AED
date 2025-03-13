@@ -7,6 +7,10 @@ package HDT6;
  * Fecha de creación: 7/03/2025
  * Fecha de finalización: 12/03/2025
  * Descripción: ésta hoja de trabajo tiene como objetivo poner en práctica conocimientos de la JCF y de los diccionarios para java (maps).
+ * 
+ * Cálculo de complejidad: considero que para la operación 4 la complejidad en tiempo sería O(n) para la lectura del csv e imprimir los resultados, 
+ * para que sean ordenadas por tipo 1 tendría complejidad máxima de O(logn). De forma que si tomamos el peor caso posible, la complejidad para la
+ * operación 4 es de O(log n).
 */
 
 import java.io.File;
