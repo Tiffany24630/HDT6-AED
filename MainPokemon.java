@@ -22,7 +22,7 @@ public class MainPokemon{
         GestorCSV csvGes = new GestorCSV();
 
         //Provicional
-        csvGes.mostrarCSV();
+        //csvGes.mostrarCSV();
 
         System.out.println("Ruta actual: " + new File(".").getAbsolutePath());
 
